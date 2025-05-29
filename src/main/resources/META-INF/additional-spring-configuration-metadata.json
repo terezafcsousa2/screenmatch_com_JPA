@@ -1,0 +1,9 @@
+{
+  "properties": [
+    {
+      "description": "Description for hibernate.dialect.",
+      "name": "hibernate.dialect",
+      "type": "java.lang.String"
+
+  }
+] }
